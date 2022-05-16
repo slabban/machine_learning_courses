@@ -1,4 +1,7 @@
 /datasets/*
 !datasets/.gitkeep
+/tensorboard/*
+!tensorboard/.gitkeep
+!tensorboard/deeplizard/.gitkeep
 
 .vscode
