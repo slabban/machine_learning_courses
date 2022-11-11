@@ -1,4 +1,6 @@
 /datasets/*
+/models/*
+!models/.gitkeep
 !datasets/.gitkeep
 /tensorboard/*
 !tensorboard/.gitkeep
