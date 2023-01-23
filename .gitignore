@@ -6,4 +6,6 @@
 !tensorboard/.gitkeep
 !tensorboard/deeplizard/.gitkeep
 
+*/.ipynb_checkpoints
+
 .vscode
